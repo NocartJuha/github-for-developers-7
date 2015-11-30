@@ -4,4 +4,4 @@
 - Home: Finland
 - Favorite food: Pizza
 - Hobby: weightlifting
-
+- Favorite color: Blue
